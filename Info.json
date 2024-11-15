@@ -1,7 +1,10 @@
 {
-  "Name": "FNTD",
-  "Version": "v4.2",
+  "Name": "FNTD Looter",
+  "Version": "v4.3",
   "Discord": "Discord",
   "Other": "Welcome to the club!",
-  "Updates": []
+  "Updates": [
+    "Test 1",
+    "Test2"
+  ]
 }
