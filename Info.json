@@ -1,10 +1,9 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v5.5",
+  "Version": "test",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added Speed Settings to adjust how fast or slow specific parts of the macro run, based on your preferences.",
-    "Fixed the \"C\" auto-add feature to correctly apply the proper upgrades when creating a new macro."
+    "Testing TEst"
   ]
 }
