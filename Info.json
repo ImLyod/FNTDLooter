@@ -1,10 +1,10 @@
 {
-  "Name": "FNTD Looter",
-  "Version": "v4.3",
-  "Discord": "Discord",
+  "Name": "FNTDLooter",
+  "Version": "v5.5",
+  "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "The quick brown fox jumps over the lazy dog, The quick brown fox jumps over the lazy dog",
-    "The quick brown fox jumps over the lazy dog"
+    "Added Speed Settings to adjust how fast or slow specific parts of the macro run, based on your preferences.",
+    "Fixed the \"C\" auto-add feature to correctly apply the proper upgrades when creating a new macro."
   ]
 }
