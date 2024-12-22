@@ -1,9 +1,12 @@
 {
   "Name": "FNTDLooter",
-  "Version": "test",
+  "Version": "6.0",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Testing TEst"
+    "Added Christmas Endless mode\n",
+    "Added Anti-AFK feature for Endless mode\n",
+    "Added a button to refresh the macro list, allowing new macros to appear without restarting\n",
+    "Disabled all previous versions\n"
   ]
 }
