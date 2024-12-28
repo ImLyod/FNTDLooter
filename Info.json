@@ -1,12 +1,10 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v6.0",
+  "Version": "v6.1",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added Christmas Endless mode",
-    "Added Anti-AFK feature for Endless mode",
-    "Added a button to refresh the macro list, allowing new macros to appear without restarting",
-    "Disabled all previous versions"
+    "Added Game 7",
+    "Added Webhook"
   ]
 }
