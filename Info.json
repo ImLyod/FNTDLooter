@@ -1,11 +1,11 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v6.2",
+  "Version": "v6.3",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added the new 'Easy' & 'Nightmare' only features.",
-    "Added 'Remove All' Features.",
-    "Fixed issues with Replay and night checks."
+    "Fixed the issue where the macro always picked HellMode, even when other modifiers were selected.",
+    "Fixed an issue where users without rituals were being delayed by 1 second.",
+    "Other minor issues"
   ]
 }
