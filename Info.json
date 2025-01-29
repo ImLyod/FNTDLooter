@@ -1,14 +1,12 @@
 {
-  "Name": "FNTDLooter",
-  "Version": "v6.4",
+  "Name": "FNTD Looter",
+  "Version": "v6.5",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added \"Save Key\" checkbox so users no longer need to type in the key every time to log in.",
-    "Added \"Copy JSON\" button for users experiencing issues with saving macros.",
-    "Added more logging events for Discord Webhooks to help debug issues.",
-    "Fixed a problem with rituals not working properly when the ritual speed was set to \"Fastest.\"",
-    "Fixed an issue in Endless mode where the game wasn't selecting the correct option and defaulted to 1 or 7.",
-    "Added an extra check to help prevent the known disconnect issue."
+    "Added \"Advanced Rituals\" to let users give the macro instructions to detect specific colors on the screen. This helps confirm if rituals are done correctly or if the user is spawned below the map.",
+    "Added a double check to confirm the modifier was selected correctly.",
+    "Fixed the issue where Select Night would sometimes fail.",
+    "Fixed some disconnect issues."
   ]
 }
