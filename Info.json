@@ -8,6 +8,6 @@
     "Added a double check to confirm the modifier was selected correctly.",
     "Fixed the issue where Select Night would sometimes fail.",
     "Fixed some disconnect issues.",
-    "-"
+    "- [v6.5.1] Fixed an issue where it would get stuck on modifier screen if user has Advanced Rituals on."
   ]
 }
