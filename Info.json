@@ -1,9 +1,10 @@
 {
   "Name": "FNTD Looter",
-  "Version": "v6.5.1",
+  "Version": "v6.5.2",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added Event Endless for Greek."
+    "Added Event Endless for Greek.",
+    "Fixed the default macro for 7-1 getting stuck in the Modifier screen."
   ]
 }
