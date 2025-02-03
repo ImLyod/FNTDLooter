@@ -4,10 +4,6 @@
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added \"Advanced Rituals\" to let users give the macro instructions to detect specific colors on the screen. This helps confirm if rituals are done correctly or if the user is spawned below the map.",
-    "Added a double check to confirm the modifier was selected correctly.",
-    "Fixed the issue where Select Night would sometimes fail.",
-    "Fixed some disconnect issues.",
-    "- [v6.5.1] Fixed an issue where it would get stuck on modifier screen if user has Advanced Rituals on."
+    "Added Event Endless for Greek."
   ]
 }
