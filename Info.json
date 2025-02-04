@@ -1,10 +1,11 @@
 {
   "Name": "FNTD Looter",
-  "Version": "v6.6",
+  "Version": "v6.7",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added Event Endless for Greek.",
-    "Fixed the default macro for 7-1 getting stuck in the Modifier screen."
+    "Added a Customizable priority settings for modifiers in the new Event Endless mode.",
+    "Discord Webhook now tracks total completion time (from select screen to select screen).",
+    "Implemented 10% color tolerance for Advance Rituals to detect colors better."
   ]
 }
