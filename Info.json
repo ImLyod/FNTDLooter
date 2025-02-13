@@ -1,11 +1,11 @@
 {
   "Name": "FNTD Looter",
-  "Version": "v6.7",
+  "Version": "v6.8",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added a Customizable priority settings for modifiers in the new Event Endless mode.",
-    "Discord Webhook now tracks total completion time (from select screen to select screen).",
-    "Implemented 10% color tolerance for Advance Rituals to detect colors better."
+    "Added modifiers for Endless 1-3",
+    "Fixed an issue with Advanced Rituals that was causing some disconnects.",
+    "Fixed some minor issues"
   ]
 }
